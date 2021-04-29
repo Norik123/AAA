@@ -12,7 +12,7 @@ monstery = world_y / 2
 monster = sprite.add_sprite("pacman", monsterx, monstery, costume="enemy_blue_down1")
 sprite.change_sprite_size_proc(monster, 180, 180)
 
-
+арпарпрополлоролролролролрол
 
 x1=int(input("Идти налево или направо?(пример:+3 или -3)"))
 y1=int(input("Идти вверх или вниз?(пр.:+3 или -3)"))
